@@ -1,7 +1,7 @@
 /* General Website Style rules */
 body {
     font-family: "Helvetica", Sans-Serif;
-    background-image: url("C:/Users/huntie/Dropbox/css-practice/my_website/images/pixil-layer-Background.png");
+    background-image: url("C:/Users/huntie/Documents/GitHub/squidma1.github.io/images/pixil-layer-Background.png");
   }
 
 a {
@@ -64,7 +64,7 @@ p {
 
 /* Large profile image */
 .large-profile {
-  background: url('C:/Users/huntie/Dropbox/css-practice/my_website/images/IMG_0866.jpg');
+  background: url('C:/Users/huntie/Documents/GitHub/squidma1.github.io/images/IMG_0866.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -95,7 +95,7 @@ p {
 /* Color and Images for Project Containers  */
 
 .project-1 {
-  background: url('C:/Users/huntie/Dropbox/css-practice/my_website/images/seagull.jpg');
+  background: url('C:/Users/huntie/Documents/GitHub/squidma1.github.io/images/seagull.jpg');
   background-size: cover;
 }
 
@@ -124,7 +124,7 @@ p {
 }
 
 .project-8 {
-  background: url('C:/Users/huntie/Dropbox/css-practice/my_website/images/kaohsiung.jpg');
+  background: url('C:/Users/huntie/Documents/GitHub/squidma1.github.io/images/kaohsiung.jpg');
   background-size: cover;
 }
 .project-text {
