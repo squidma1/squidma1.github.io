@@ -3,6 +3,9 @@ body {
     background-image: url("../images/background-blue-hearts.png");
   }
 
+a {
+  color: white;
+}
 .footer {
     position:fixed;
     bottom:0;
