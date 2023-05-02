@@ -2,3 +2,29 @@ body {
     font-family: "Helvetica", Sans-Serif;
     background-image: url("../images/background-blue-hearts.png");
   }
+
+.footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    height: 70px;
+    background-color: #039ae5b5;
+}
+  
+ .footer-text-left {
+    font-size:25px;
+    padding-left:40px;
+    float:left;
+    word-spacing:20px;
+  }
+  
+  a.menu:hover {
+    background-color:#b3e5fc;
+  }
+  
+  .footer-content-right {
+    padding-right:40px;
+    margin-top:20px;
+    float:right;
+  }  
