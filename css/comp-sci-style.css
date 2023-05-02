@@ -6,6 +6,41 @@ body {
 a {
   color: white;
 }
+
+.color-link {
+  color: blue;
+}
+
+.section-heading {
+  text-align:center;
+  color:#f5f8fc;
+  margin-top: 70px;
+  margin-bottom:70px;
+  font-size: 75px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #039ae5;
+
+}
+
+/* Wide column */
+.column-1 {
+  width: 90%;
+  height: auto;
+  padding-top:70px;
+  padding-left:70px;
+  padding-bottom:70px;
+  margin:auto;
+  margin-bottom:50px;
+  margin-top: 75px;
+  background-color:white;
+}
+
+/* Table formatting */
+.table-style {
+  width:100%;
+  border-spacing: 24px;
+}
+
 .footer {
     position:fixed;
     bottom:0;
