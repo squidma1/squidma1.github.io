@@ -7,7 +7,38 @@ a {
     color: white;
 }
 
+.section-heading {
+  text-align:center;
+  color:#f5f8fc;
+  margin-top: 70px;
+  margin-bottom:70px;
+  font-size: 75px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #aa47bc;
 
+}
+
+/* Create two equal columns that float next to each other */
+.column-2 {
+  float: left;
+  width: 45%;
+  padding: 40px;
+  padding-left:70px;
+  padding-right: 70px;
+  height: 475px;
+  margin:30px;
+  margin-right:30px;
+  margin-bottom: 70px;
+  background-color: #aa47bc;
+  line-height:2;
+}
+
+/* Large profile image */
+.large-profile {
+  background: url('../images/IMG_0866.jpg');
+  background-size: cover;
+  background-position: center;
+}
 
 /* Footer */
 
