@@ -62,6 +62,12 @@ h1 {
   }
 
 
+  /* Large profile image */
+.large-profile {
+  background: url('../images/IMG_4749.jpg');
+  background-size: cover;
+  background-position: center;
+}
  
 /* Footer */
 
